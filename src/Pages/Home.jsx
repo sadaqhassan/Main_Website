@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className='flex  md:flex-row flex-col   md:px-0 px-12 mb-5 justify-center md:space-x-14 md:ml-30 '>
         <div>
-            <img src="portimg.png" alt="img" className='w-90 h-90 mt-10 rounded-full'/>
+            <img src="cover.jpg" alt="img" className='w-96 h-96 mt-10 rounded-full'/>
         </div>
         <div className='mt-24'>
             <h1 className='text-5xl bg-gray-100 px-4 rounded-2xl py-4 text-cyan-700 font-extrabold'>Hello I'm Sadak Hassan</h1>

@@ -17,7 +17,7 @@ const About = () => {
             <div className='w-60 rounded bg-gray-200 h-1.5 '><div className='w-48 rounded-lg h-1.5 bg-green-500'></div></div>
            </div>
            <div>
-             <h1>JavaScript</h1>
+             <h1>Vanilla_JavaScript</h1>
             <div className='w-60 rounded bg-gray-200 h-1.5 '><div className='w-50 rounded-lg h-1.5 bg-green-500'></div></div>
            </div>
            <div>
